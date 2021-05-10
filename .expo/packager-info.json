@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19005,
+  "packagerPid": null,
+  "devToolsPort": 19004,
+  "expoServerPort": 19005,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://av-xfz.anonymous.react-native-hangman.exp.direct",
+  "packagerNgrokUrl": "https://packager.av-xfz.anonymous.react-native-hangman.exp.direct",
+  "ngrokPid": 36840
+}
